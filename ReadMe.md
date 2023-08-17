@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Web. <br>Apaixonado por tecnologia. <br>Obtendo minha formação na EBAC, através da formação Full Stack Python.
+<br>Apaixonado por tecnologia. <br>Obtendo minha formação na EBAC, através da formação Full Stack Python.
 
 
 ## 🌐 Socials:
