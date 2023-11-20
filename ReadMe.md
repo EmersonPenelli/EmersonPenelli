@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Apaixonado por tecnologia. <br>Obtendo minha formação de Engenharia de Software na Unicesumar.
-<br>Em conjunto com a formação na EBAC, Full Stack Python Developer.
+<br>Em conjunto com a formação Full Stack Python Developer na EBAC.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EmersonPenelli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-penelli/) 
