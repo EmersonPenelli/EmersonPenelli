@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Apaixonado por tecnologia. <br>Obtendo minha formação de Engenharia de Software na Unicesumar.
+<br>Apaixonado por tecnologia. <br>Obtendo minha formação em Engenharia de Software.
 <br>Em conjunto com a formação Full Stack Python Developer na EBAC.
 
 ## 🌐 Socials:
