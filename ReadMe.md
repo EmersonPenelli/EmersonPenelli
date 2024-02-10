@@ -1,26 +1,16 @@
 <!---
 DESCRIPTION
 --->
-## The Good, the Bad and the Ugly
-<p float="left" align="center" >
-  <a href="https://www.oracle.com/br/education/oracle-next-education/" style="border-radius: 10px;">
-    <img src="https://github.com/EmersonPenelli/100-days-of-code-with-python-gifs/blob/main/ONE_logo_rgb.png" width="265" height="90"/>
-  </a>
-  &nbsp;
-  <a href="https://ebaconline.com.br/" style="border-radius: 10px;">
-    <img src="https://github.com/EmersonPenelli/100-days-of-code-with-python-gifs/blob/main/transferir.png" width="265" height="90"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/EmersonPenelli/100-days-of-code-with-python" style="border-radius: 10px;">
-    <img src="https://github.com/EmersonPenelli/100-days-of-code-with-python-gifs/blob/main/github_python_banner_python.png" width="265" height="90"/>
-  </a>
-</p>
+
+![Header](https://github.com/EmersonPenelli/EmersonPenelli/blob/main/profile/banners/header/github-header-image.png)
 
 
 <!---
 SMALL ICONS
 --->
 <p align="center">
+  <a href='mailto:emersonpenelli@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/GMAIL-100000?style=flat&logo=gmail&logoColor=white&labelColor=#ff2e00&color=#ff8282'/></a>
+  </a>
   <a href='www.linkedin.com/in/emerson-penelli' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
   </a>
   <img src="https://komarev.com/ghpvc/?username=EmersonPenelli&style=flat&color=blue"></a>
@@ -34,8 +24,16 @@ SMALL ICONS
 * 🛠️ Additionally, I have an interest in `Cybersecurity`, `Python` and `Project Management`.
 
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Emersan#7197)  
+## ⚡Challenges⚡:
+
+* ### 100 Days of code in Python <br>
+
+  <a href="https://github.com/EmersonPenelli/100-days-of-code-with-python">
+    <img src="https://github.com/EmersonPenelli/EmersonPenelli/blob/main/profile/banners/python/github_profile_banner_round_python.png" width="265"/>
+  </a>
+
+
+
 
 <!---
 BIG ICONS
