@@ -59,5 +59,10 @@ BIG ICONS
 [![](https://visitcount.itsvg.in/api?id=emersonpenelli&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmersonPenelli/EmersonPenelli/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
