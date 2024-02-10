@@ -11,7 +11,7 @@ SMALL ICONS
 <p align="center">
   <a href='mailto:emersonpenelli@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/GMAIL-100000?style=flat&logo=gmail&logoColor=white&labelColor=#ff2e00&color=#ff8282'/></a>
   </a>
-  <a href='www.linkedin.com/in/emerson-penelli' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+  <a href='https://www.linkedin.com/in/emerson-penelli' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
   </a>
   <img src="https://komarev.com/ghpvc/?username=EmersonPenelli&style=flat&color=blue"></a>
   </a>
