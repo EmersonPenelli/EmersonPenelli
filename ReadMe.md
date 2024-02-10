@@ -27,14 +27,14 @@ SMALL ICONS
   </a>
 </p>
 
-# 💫 About Me:
+#  About Me:
 * 🌱 I´m currently studying  Software Engineering at [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
 * 👀 I´m currently learning `Java` + `Springboot` at [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
 * 🚀 I´m interest in `Games`, `Series`, `Space` and `Geek Culture`.<br>
 * 🛠️ Additionally, I have an interest in `Cybersecurity`, `Python` and `Project Management`.
 
 
-## 🌐 Socials:
+## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Emersan#7197)  
 
 <!---
@@ -47,12 +47,12 @@ BIG ICONS
   </a>
 </p>
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emersonpenelli&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emersonpenelli&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpenelli&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
