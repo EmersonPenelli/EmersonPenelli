@@ -59,3 +59,4 @@ BIG ICONS
 [![](https://visitcount.itsvg.in/api?id=emersonpenelli&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
+![snake gif](https://github.com/EmersonPenelli/EmersonPenelli/blob/output/github-contribution-grid-snake.gif)
