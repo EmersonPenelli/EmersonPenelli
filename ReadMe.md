@@ -1,9 +1,9 @@
 <!---
 DESCRIPTION
 --->
-
-![Header](https://github.com/EmersonPenelli/EmersonPenelli/blob/main/profile/banners/header/github-header-image.png)
-
+<h1 align="center">
+    <img src="https://github.com/EmersonPenelli/EmersonPenelli/blob/main/profile/banners/header/github-header-image.png" />
+</h1>
 
 <!---
 SMALL ICONS
@@ -24,7 +24,7 @@ SMALL ICONS
 * 🛠️ Additionally, I have an interest in `Cybersecurity`, `Python` and `Project Management`.
 
 
-## ⚡Challenges⚡:
+## 🐍 Challenges
 
 * ### 100 Days of code in Python <br>
 
@@ -38,7 +38,7 @@ SMALL ICONS
 <!---
 BIG ICONS
 --->
-## Skills
+## ⚒️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,react,git,github,vscode,flask,django,postgres,figma,aws" />
@@ -58,7 +58,7 @@ BIG ICONS
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>⚡ My Contributions ⚡</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmersonPenelli/EmersonPenelli/output/github-contribution-grid-snake.svg" />
   
