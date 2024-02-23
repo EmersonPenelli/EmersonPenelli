@@ -17,14 +17,14 @@ SMALL ICONS
   </a>
 </p>
 
-#  About Me:
-* 🌱 I´m currently studying  Software Engineering at [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
-* 👀 I´m currently learning `Java` + `Springboot` at [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
-* 🚀 I´m interest in `Games`, `Series`, `Space` and `Geek Culture`.<br>
-* 🛠️ Additionally, I have an interest in `Cybersecurity`, `Python` and `Project Management`.
+#  Sobre mim:
+* 🌱 Atualmente, estou cursando graduação de Engenharia de Software na [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
+* 👀 Estou aprendendo `Java` + `Springboot` na instituição [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
+* 🚀 Tenho interesse em `Games`, `Series`, `Espaço` and `Geek Culture`.<br>
+* 🛠️ Além disso, tenho interesse em `Cybersecurity`, `Python` and `Project Management`.
 
 
-## 🐍 Challenges
+## 🐍 Desafios
 
 * ### 100 Days of code in Python <br>
 
@@ -38,7 +38,7 @@ SMALL ICONS
 <!---
 BIG ICONS
 --->
-## ⚒️ Skills
+## ⚒️ Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,react,git,github,vscode,flask,django,postgres,figma,aws" />
@@ -58,7 +58,7 @@ BIG ICONS
 
 
 <div align="center">
-  <h2>⚡ My Contributions ⚡</h2>
+  <h2>⚡ Minhas contribuições ⚡</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmersonPenelli/EmersonPenelli/output/github-contribution-grid-snake.svg" />
   
