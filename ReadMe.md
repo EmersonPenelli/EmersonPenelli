@@ -20,8 +20,8 @@ SMALL ICONS
 #  Sobre mim:
 * 🌱 Atualmente, estou cursando graduação de Engenharia de Software na [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
 * 👀 Estou aprendendo `Java` + `Springboot` na instituição [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
-* 🚀 Tenho interesse em `Games`, `Series`, `Espaço` and `Geek Culture`.<br>
-* 🛠️ Além disso, tenho interesse em `Cybersecurity`, `Python` and `Project Management`.
+* 🚀 Tenho interesse em `Games`, `Series`, `Espaço` e `Geek Culture`.<br>
+* 🛠️ Além disso, tenho interesse em `Cybersecurity`, `Python` e `Project Management`.
 
 
 ## 🐍 Desafios
