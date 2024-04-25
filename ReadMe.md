@@ -20,8 +20,9 @@ SMALL ICONS
 #  Sobre mim:
 * 🌱 Atualmente, estou cursando graduação de Engenharia de Software na [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
 * 👀 Estou aprendendo `Java` + `Springboot` na instituição [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
-* 🎒 Atualmente fazendo o Curso de `Full Stack Python` da [**EBAC**](https://ebaconline.com.br/full-stack-python)
-* 🚀 Tenho interesse em `Games`, `Series`, `Exploração Espacial` e `Geek Culture`.<br>
+* 🚀 Atualmente fazendo o Curso de `Full Stack Python` da [**EBAC**](https://ebaconline.com.br/full-stack-python)
+* 🚀 Participando do Bootcamp Backend com Java do [Santander](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024)
+* 🎒 Tenho interesse em `Games`, `Series`, `Exploração Espacial` e `Geek Culture`.<br>
 * 🛠️ Além disso, tenho interesse em `Cybersecurity`, `Python` e `Devops`.
 
 
