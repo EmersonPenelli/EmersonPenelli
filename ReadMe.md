@@ -25,8 +25,8 @@ SMALL ICONS
 🚀 Participante do Bootcamp `Backend com Java` do [**Santander**](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024) <br>
 🚀 Participante do Bootcamp `Java` + `Springboot` na instituição [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
 🚀 Participante da 8ª maratona `CCNA 1` e `Network Security` da [**Cisco**](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html) <br>
-🎒 Tenho interesse em `Games`, `Series`, `Exploração Espacial` e `Geek Culture`.<br>
-🛠️ Além disso, tenho interesse em `Cybersecurity`, `AI` e `Devops`. <br>
+🎒 Me interesso por `Games`, `Series`, `Exploração Espacial` e `Geek Culture`.<br>
+🤖 Também tenho paixão por áreas técnicas, como `Devops`, `AI` e `Cybersecurity`. <br>
 
 
 ## ✨ Desafios 
