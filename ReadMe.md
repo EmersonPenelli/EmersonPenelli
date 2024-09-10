@@ -18,9 +18,9 @@ SMALL ICONS
 </p>
 
 #  Sobre mim:
-* 🌱 Atualmente, estou cursando graduação de Engenharia de Software na [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
-* 🚀 Atualmente participando do Bootcamp Cloud da empresa [**T-Systems**](https://www.t-systems.com)
-* 🚀 Atualmente realizando o curso de `Desenvolvimento FullStack Python` da [**EBAC**](https://ebaconline.com.br/full-stack-python)
+* ⚡ Atualmente, estou cursando graduação de Engenharia de Software na [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
+* ✨ Atualmente participando do Bootcamp Cloud da empresa [**T-Systems**](https://www.t-systems.com)
+* ✨ Atualmente realizando o curso de `Desenvolvimento FullStack Python` da [**EBAC**](https://ebaconline.com.br/full-stack-python) 
 * 🚀 Participando da formação de `Desenvolvimento FullStack Java` promovido pela [**MaisPraTi**](https://curso.maisprati.com.br/)
 * 🚀 Participante do Bootcamp `Backend com Java` do [**Santander**](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024)
 * 🚀 Participante do Bootcamp `Java` + `Springboot` na instituição [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
