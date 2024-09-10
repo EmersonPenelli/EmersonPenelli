@@ -18,18 +18,18 @@ SMALL ICONS
 </p>
 
 #  Sobre mim:
-* ⚡ Atualmente, estou cursando graduação de Engenharia de Software na [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
-* ✨ Atualmente participando do Bootcamp Cloud da empresa [**T-Systems**](https://www.t-systems.com)
-* ✨ Atualmente realizando o curso de `Desenvolvimento FullStack Python` da [**EBAC**](https://ebaconline.com.br/full-stack-python) 
-* ✨ Participando da formação de `Desenvolvimento FullStack Java` promovido pela [**MaisPraTi**](https://curso.maisprati.com.br/)
-* 🚀 Participante do Bootcamp `Backend com Java` do [**Santander**](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024)
-* 🚀 Participante do Bootcamp `Java` + `Springboot` na instituição [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
-* 🚀 Participante da 8ª maratona `CCNA 1` e `Network Security` da [**Cisco**](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html)
-* 🎒 Tenho interesse em `Games`, `Series`, `Exploração Espacial` e `Geek Culture`.<br>
-* 🛠️ Além disso, tenho interesse em `Cybersecurity`, `AI` e `Devops`.
+🎓 Graduando em  `Engenharia de Software` na [**Unicesumar**](https://www.unicesumar.edu.br/).<br>
+⚡ Participando do `Bootcamp Cloud` da empresa [**T-Systems**](https://www.t-systems.com) <br>
+⚡ Realizando o curso de `Desenvolvimento FullStack Python` da [**EBAC**](https://ebaconline.com.br/full-stack-python) <br>
+⚡ Participando da formação de `Desenvolvimento FullStack Java` promovido pela [**MaisPraTi**](https://curso.maisprati.com.br/) <br>
+🚀 Participante do Bootcamp `Backend com Java` do [**Santander**](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024) <br>
+🚀 Participante do Bootcamp `Java` + `Springboot` na instituição [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/).<br>
+🚀 Participante da 8ª maratona `CCNA 1` e `Network Security` da [**Cisco**](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html) <br>
+🎒 Tenho interesse em `Games`, `Series`, `Exploração Espacial` e `Geek Culture`.<br>
+🛠️ Além disso, tenho interesse em `Cybersecurity`, `AI` e `Devops`. <br>
 
 
-## 🐍 Desafios
+## 🐍 Desafios ✨ 
 
 * ### 100 Days of code in Python <br>
 
