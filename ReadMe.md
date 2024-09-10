@@ -29,9 +29,9 @@ SMALL ICONS
 🛠️ Além disso, tenho interesse em `Cybersecurity`, `AI` e `Devops`. <br>
 
 
-## 🐍 Desafios ✨ 
+## ✨ Desafios 
 
-* ### 100 Days of code in Python <br>
+ ### 100 Days of code in Python 🐍  <br>
 
   <a href="https://github.com/EmersonPenelli/100-days-of-code-with-python">
     <img src="https://github.com/EmersonPenelli/EmersonPenelli/blob/main/profile/banners/python/github_profile_banner_round_python.png" width="265"/>
